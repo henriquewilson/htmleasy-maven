@@ -1,0 +1,1 @@
+Maven repository for [Htmleasy](http://code.google.com/p/htmleasy/) - a simple, elegant HTML based MVC micro-framework that builds on Resteasy (JAX-RS).
